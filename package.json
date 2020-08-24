@@ -1,0 +1,7 @@
+{
+  "name": "@jakubmazanec/eslint-config",
+  "description": "ESLint config",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "github:jakubmazanec/eslint-config"
+}
